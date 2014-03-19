@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+#mes{
+	font-style: italic;
+}
+
+/*가운데 정렬*/
+.area {
+	margin: 150px auto;
+	width:100%;
+	text-align:center;
+}
+
+.completeBtn{
+	width: 90px;
+	height:35px;
+}

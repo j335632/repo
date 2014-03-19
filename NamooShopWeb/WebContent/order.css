@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+
+table,tr,td{
+	
+	
+	border : 1px solid black;
+	border-spacing: 0px;
+	text-align: center;
+}
+
+tr{
+	height:30px;	
+}
+
+#top{
+	background-color: lightgrey;
+}
+
+#total{
+	position: relative;
+	margin-left : 470px;
+	font-size: 18px;
+}
+
+#product{
+	width: 350px;	
+	height : 30px;
+	text-align: left;
+}
+
+#price{
+	width:180px;
+	text-align: right;
+}
+
+#number{
+	width:100px;
+}
+
+#address{
+	width : 220px;
+}
+
+#input{
+	width : 410px; 
+}
+#radio{
+	text-align: left;
+}
+#box{
+	width:390px;
+}
+#btn{
+	position: relative;
+	margin-left: 550px;
+	width: 90px;
+	height:35px;
+}
